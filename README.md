@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan 👋
+# 👋 Hi, I'm Jonathan
 
 I'm a **software engineer** based in California, currently building at [Truemed](https://truemed.com) — making it easier for people to spend HSA/FSA dollars on things that actually keep them healthy.
 
@@ -12,7 +12,7 @@ Previously at [Affirm](https://affirm.com), where I worked on consumer-facing fi
 
 ## 🌱 What I'm up to
 
-- Building and spending tokens
+- Building and spending tokens on whatever annoyances I feel I can build around
 - Rambling over at [jonathanapostol.com](https://jonathanapostol.com)
 - Preparing for my next marathon 🏃‍♂️
 
