@@ -13,12 +13,12 @@ Previously at [Affirm](https://affirm.com), where I worked on consumer-facing fi
 ## 🌱 What I'm up to
 
 - Building and spending tokens on whatever annoyances I feel I can build around
-- Rambling over at [jonathanapostol.com](https://jonathanapostol.com)
+- Rambling over at [jtapostol.com](https://jtapostol.com/blog)
 - Preparing for my next marathon 🏃‍♂️
 
 ## 🔗 Find me elsewhere
 
-- 🌐 Website: [jtapostol.com](https://jtapostol.com) · [jonathanapostol.com](https://jonathanapostol.com)
+- 🌐 Website: [jtapostol.com](https://jtapostol.com)
 - 💼 LinkedIn: [linkedin.com/in/jtapostol](https://linkedin.com/in/jtapostol)
 
 ---
