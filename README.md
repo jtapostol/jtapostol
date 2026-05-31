@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jonathan
+# 👋 Hi, I'm Jonathan Apostol
 
 I'm a **software engineer** based in California, currently building at [Truemed](https://truemed.com) — making it easier for people to spend HSA/FSA dollars on things that actually keep them healthy.
 
